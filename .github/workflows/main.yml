@@ -13,8 +13,8 @@ on:
   workflow_dispatch
     
 env:
-  ROM_URL: https://pric728udj6dld1ncrrt3qvjqpttp13fuc01cvair792aia3u13fuvid.qc.dolfincdnx.cn:10443/xdispatch7bab1c9adde727fc/bigota.d.miui.com/V14.0.23.1.9.DEV/miui_DITING_V14.0.23.1.9.DEV_6f11b5fa94_13.0.zip?bsreqid=4b6fd14d6e7ff87ea3a6adf571cdf0b3
-  ROM_NAME: Generic
+  ROM_URL: https://df300jh263iihmhg2hkee4pjnsq7kim0p3e1rl7ps9s9ao5mohcfv5c8.qc.dolfincdnx.cn:10443/xdispatch7bab17ebdde727fc/bigota.d.miui.com/V14.0.23.1.30.DEV/miui_DITING_V14.0.23.1.30.DEV_1f05100f16_13.0.zip?bsreqid=bc8ff4963c8acc7939c83fcaef399e71
+  ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
